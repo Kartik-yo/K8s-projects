@@ -1,1 +1,1 @@
-# K8s-projects-votingapp
+# K8s-projects repo
