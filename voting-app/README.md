@@ -271,3 +271,9 @@ kubectl exec -it mongo-0 -- mongo langdb --eval "db.languages.find().pretty()"
 ## **Summary**
 
 In this Project, you learnt how to deploy a cloud native application into EKS. Once deployed and up and running, you used your local workstation's browser to test out the application. You later confirmed that your activity within the application generated data which was captured and recorded successfully within the MongoDB ReplicaSet back end within the cluster.
+
+## **Photos**
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/79/db/14/79db14045225c2b1c4f0bb079ca37f7d.png"></img>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/45/4e/cd454e0587af70b4b0a6b26fbf6997b3.png"></img>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e5/d9/79/e5d97901ccc96c28ac9798967cc45bd9.png"></img>
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/d8/5e/cc/d85ecc30c86db251c900959eb36f6daf.png"></img>
